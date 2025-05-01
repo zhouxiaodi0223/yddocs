@@ -4,6 +4,7 @@
 
 ## 功能描述
 
+该指令实现了对TK本土店在Analytic-Live&Video-video-performance报表进行下载
 
 ## 使用说明
 
